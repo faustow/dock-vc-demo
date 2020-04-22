@@ -53,7 +53,7 @@ class App extends Component{
                     <ListGroup.Item>
                       <Form>
                         <Form.Label>Verifiable Credential</Form.Label>
-                        <Form.Control as="textarea" value={JSON.stringify(this.state.vc, null, 1)} rows="15"/>
+                        <Form.Control as="textarea" value={JSON.stringify(this.state.vc, null, 1)} rows="25"/>
                       </Form>
                     </ListGroup.Item>
                     <ListGroup.Item>
