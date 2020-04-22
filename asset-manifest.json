@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dock-vc-demo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/dock-vc-demo/static/js/main.8f06c24d.chunk.js",
+    "main.js.map": "/dock-vc-demo/static/js/main.8f06c24d.chunk.js.map",
+    "runtime-main.js": "/dock-vc-demo/static/js/runtime-main.648c3f46.js",
+    "runtime-main.js.map": "/dock-vc-demo/static/js/runtime-main.648c3f46.js.map",
+    "static/css/2.69121389.chunk.css": "/dock-vc-demo/static/css/2.69121389.chunk.css",
+    "static/js/2.6281988e.chunk.js": "/dock-vc-demo/static/js/2.6281988e.chunk.js",
+    "static/js/2.6281988e.chunk.js.map": "/dock-vc-demo/static/js/2.6281988e.chunk.js.map",
+    "index.html": "/dock-vc-demo/index.html",
+    "precache-manifest.256978b89333bff49600042146ba882f.js": "/dock-vc-demo/precache-manifest.256978b89333bff49600042146ba882f.js",
+    "service-worker.js": "/dock-vc-demo/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/dock-vc-demo/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/dock-vc-demo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6281988e.chunk.js.LICENSE.txt": "/dock-vc-demo/static/js/2.6281988e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.648c3f46.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.6281988e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8f06c24d.chunk.js"
+  ]
+}
